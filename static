@@ -1,0 +1,5 @@
+
+MarineMarine::be_attacked(int damage_earn) 
+{this->hp -= damage_earn;
+if (this->hp is_dead = true;
+return *this;}
