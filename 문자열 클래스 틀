@@ -1,0 +1,12 @@
+class string{
+char *str;
+int len;
+public:
+string(char c, int n);
+string(const char *s);
+string(const string &s);
+~string();
+void add_string(const string &s);
+void copy_string(const string &s);
+int strlen();
+}
